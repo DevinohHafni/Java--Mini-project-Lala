@@ -1,10 +1,12 @@
 Refugee Language Learning App
 
-Overview
+Overview:
+
 Welcome to the Refugee Language Learning App! This platform is designed to empower refugees by providing tailored language learning resources and cultural integration tips. 
 Our goal is to foster community connections and help users navigate their new environments with confidence and support.
 
-Features
+Features:
+
 Language Learning Resources: Access interactive lessons, quizzes, and exercises tailored to different proficiency levels.
 Cultural Integration Tips: Discover essential cultural insights and local customs to ease the transition into a new community.
 Community Forum: Connect with other users to share experiences, ask questions, and offer support.
